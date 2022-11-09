@@ -5,19 +5,35 @@ Data Used https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+b
 Output Variable - Gender
 
 Input Variable:
+
 Age	
+
 Height	
+
 Weight	
+
 family_history_with_overweight	
+
 FAVC	
+
 FCVC	
+
 NCP	
+
 CAEC	
+
 SMOKE	
+
 CH2O	
+
 SCC	
+
 FAF	
+
 TUE	
+
 CALC	
+
 MTRANS	
+
 NObeyesdad
